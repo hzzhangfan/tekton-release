@@ -1,1 +1,0 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/kubeconfigwriter:v0.19.0@sha256:69126c3e42f99ff32fd9d00a5cd1b47ddf2e50c10fc8f15df268cc4b08434b7b
